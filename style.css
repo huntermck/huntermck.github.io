@@ -24,6 +24,25 @@ p {
     color: black;
 }
 
+ul b {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    box-shadow: 0 0 0 0 rgba(0,0,0,.25)
+}
+
+li b {
+    text-decoration: none;
+    text-align: center;
+    border-radius: 20px;
+    background-color: white;
+    display: block;
+    margin: 25px;
+    padding: 20px;
+    width: 20%;
+    box-shadow: 0 0 0 0 rgba(0,0,0,.25);
+}
+
 #two {
     background-color: lightskyblue;
     color: black;
@@ -36,7 +55,7 @@ p {
 
 #Header {
     text-align: center;
-    padding: 25px;
+    padding: 10px;
 }
 
 .body {
