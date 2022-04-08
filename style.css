@@ -3,6 +3,36 @@ body {
     color: black;
 }
 
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#one {
+    background-color: lightskyblue;
+    color: black;
+}
+
+#two {
+    background-color: lightskyblue;
+    color: black;
+}
+
+#three {
+    background-color: lightskyblue;
+    color: black;
+}
+
 #Header {
     text-align: center;
     padding: 25px;
@@ -30,4 +60,5 @@ body {
 
 ul {
     list-style-type: none;
+    text-decoration: none;
 }
